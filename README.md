@@ -1,7 +1,7 @@
 Welcome to Emily, Elaine, Abby, and Catherine's Dance Dance Energy Game!
 The purpose of this simulation is to show a relationship between motion of the circles on the screen (representing patrons at a concert)
 and energy generation. On the top left corner of the game you will see the number of Watt-Hours that can be produced from the level of motion you 
-are making using PaveGen tiles on the dance floor. 
+are creating using PaveGen tiles on the dance floor. 
 
 Assumptions: 
 200 people
